@@ -1,10 +1,6 @@
 {
-    "name": "TZEBEC",
-    "symbol": "TZBC",
     "description": "ebec is a continuous Settlement Protocol that will transform payroll, cash flow, and token vesting by allowing users to send payments and distributions every second.",
-    "image": "",
-    "address": "",
-    "decimals": 9,
+    "image": "https://avatars.githubusercontent.com/u/52326360?s=400&u=010d365517a6b1c8079e8fdb3d4b22e8538a349e&v=4",
     "tags": [
         "utility-token",
         "veni",
@@ -12,7 +8,6 @@
         "vici"
       ],
     "extensions": {
-        "description": "this is test description of zebec.",
         "discord": "https://discord.gg/gYCe7h8p",
         "twitter": "https://twitter.com/Zebec_HQ",
         "telegram": "https://t.me/zebececosystem",
