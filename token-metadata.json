@@ -11,6 +11,8 @@
         "discord": "https://discord.gg/gYCe7h8p",
         "twitter": "https://twitter.com/Zebec_HQ",
         "telegram": "https://t.me/zebececosystem",
-        "website": "https://zebec.io"
+        "website": "https://zebec.io",
+        "bridgeContract": "https://bscscan.com/token/0x6d1054c3102e842314e250b9e9c4be327b8daae2",
+        "coingeckoId": "zebec-protocol"
       }
 }
